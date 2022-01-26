@@ -30,3 +30,19 @@ Log in to the OpenStack dashboard, choose the project for which you want to down
 $ source your-project-openrc.sh
 Please enter your OpenStack Password for project PROJECT as user username:
 ```
+### Openstack basic commands
+
+This lists the images available to you.
+```
+$ openstack image list
+```
+This lists the volumes you have created.
+```
+$ openstack volume list
+```
+This lists the flavors available to you.
+```
+$ openstack flavor list
+```
+
+<b>Note</b>: please check those resouces and replace the content in the variables.tf file.
