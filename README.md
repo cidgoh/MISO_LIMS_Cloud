@@ -12,6 +12,19 @@ $ sudo mv terraform /usr/local/bin/
 $ terraform --version
 ```
 
+### Install the OpenStack command-line Clients
+```
+$ sudo apt-get install python3-dev
+$ sudo apt-get install python3-pip
+$ sudo apt-get install python-virtualenv
+$ virtualenv ~/venv
+$ source ~/venv/bin/activate
+$ pip3 install --upgrade setuptools
+$ pip3 install python-openstackclient
+```
+
+### Download your openrc file
+
 Log in to the OpenStack dashboard, choose the project for which you want to download the OpenStack RC file, and run the following commands:
 ```
 $ source your-project-openrc.sh
