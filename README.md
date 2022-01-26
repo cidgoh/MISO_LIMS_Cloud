@@ -66,4 +66,4 @@ $ terraform apply
 
 If you have any problems running the scripts, [please open an issue for discussion][1].
 
-[1]: https://github.com/cidgoh/MISO_LIMS_Cloud/issues
+[1]: https://github.com/cidgoh/MISO_LIMS_Cloud/issues or email to duanjun1981@gmail.com
