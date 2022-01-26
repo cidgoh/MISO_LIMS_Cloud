@@ -59,7 +59,7 @@ $ terraform apply
 
 ### Acknowledgement
 
-- [MISO](https://github.com/miso-lims/) is an open source an open-source Lab Information Management System (LIMS) developped at the Earlham Institute, Ontario Institute for Cancer Research (OICR).
+- [MISO](https://github.com/miso-lims/) is an open source Lab Information Management System (LIMS) developped at the Earlham Institute, Ontario Institute for Cancer Research (OICR).
 
 ## Support
 
