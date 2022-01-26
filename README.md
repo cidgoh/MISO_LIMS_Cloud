@@ -2,6 +2,8 @@
 
 The MISO_LIMS_Cloud is designed to be easily deployed for MISO on Compute Canada Cloud like Cedar (https://cedar.cloud.computecanada.ca/). By using the template, you can deploy MISO on a single OpenStack instance using Terraform.
 
+[MISO](https://github.com/miso-lims/) is an open source Lab Information Management System (LIMS) developped at the Earlham Institute, Ontario Institute for Cancer Research (OICR). MISO can be used to store relevant metadata based on a wide array of NGS sequencing platforms (e.g. Illumina GA, HiSeq and MiSeq, Roche 454, ABI SOLiD and PacBio RS) and public repository data submission schemas (e.g. the Sequence Read Archive at the EBI), and has many features common to bespoke and proprietary LIMS, such as secure authentication, fine-grained access control, barcode tracking, and reporting.
+
 ### Install Terraform:
 
 ```
