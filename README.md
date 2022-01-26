@@ -45,4 +45,15 @@ This lists the flavors available to you.
 $ openstack flavor list
 ```
 
-<b>Note</b>: please check those resouces and replace the content in the variables.tf file.
+<b>Note</b>: please check those resources and replace the content in the variables.tf file.
+
+### Usage
+
+```
+$ git clone https://github.com/cidgoh/MISO_LIMS_Cloud.git
+$ cd MISO_LIMS_Cloud
+$ terraform init
+$ terraform plan
+$ terraform apply
+```
+
