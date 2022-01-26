@@ -11,3 +11,9 @@ $ unzip /tmp/terraform_0.12.6_linux_amd64.zip
 $ sudo mv terraform /usr/local/bin/
 $ terraform --version
 ```
+
+Log in to the OpenStack dashboard, choose the project for which you want to download the OpenStack RC file, and run the following commands:
+```
+$ source your-project-openrc.sh
+Please enter your OpenStack Password for project PROJECT as user username:
+```
