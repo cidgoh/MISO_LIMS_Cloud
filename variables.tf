@@ -1,3 +1,7 @@
+variable "instance_name" {
+  default = "miso"
+}
+
 variable "image" {
   default = "22209ed8-554e-4b8f-a0d9-4074a62228ee"
 }
